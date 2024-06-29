@@ -92,8 +92,8 @@ test_resnet152_folder = os.path.join(directory_feature, 'test_Deep_Hand_Crafted_
 train_resnet101_folder = os.path.join(directory_feature, 'train_Deep_Hand_Crafted_Features', 'resnet101_features')
 test_resnet101_folder = os.path.join(directory_feature, 'test_Deep_Hand_Crafted_Features', 'resnet101_features')
 
-train_resnet50_folder = os.path.join(directory_feature, 'train_Deep_Hand_Crafted_Features', 'vgg19_features')
-test_resnet50_folder = os.path.join(directory_feature, 'test_Deep_Hand_Crafted_Features', 'vgg19_features')
+train_resnet50_folder = os.path.join(directory_feature, 'train_Deep_Hand_Crafted_Features', 'resnet50_features')
+test_resnet50_folder = os.path.join(directory_feature, 'test_Deep_Hand_Crafted_Features', 'resnet50_features')
 
 
 # 5. resnet152_features
